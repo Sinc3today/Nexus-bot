@@ -1,0 +1,24 @@
+# ─── Secrets & credentials ───────────────────────────────────
+.env
+google_credentials.json
+
+# ─── Runtime data ─────────────────────────────────────────────
+nexus.db
+downloads/
+
+# ─── Python ───────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ─── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
